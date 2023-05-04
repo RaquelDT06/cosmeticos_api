@@ -1,0 +1,28 @@
+.invisivel {
+    display: none;
+}
+
+*{
+   
+    font-family:cursive
+    
+}
+
+.card{
+    
+    margin-top: 3rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+    
+}
+
+.cabeca{
+    padding: 2;
+   text-align: justify;
+}
+
+body{
+    background-color: antiquewhite;
+}
